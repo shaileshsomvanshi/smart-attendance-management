@@ -1,5 +1,6 @@
 # Smart Attendance Management System
 
+
 This is a Spring Boot REST API application built for the Pre-Drive Product Engineering Assignment (Option 1). It provides a complete backend solution for tracking attendance, correcting records, reviewing history, and identifying students with low attendance.
 
 ## Prerequisites

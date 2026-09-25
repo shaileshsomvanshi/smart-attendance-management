@@ -26,3 +26,8 @@ public class Course {
     @JoinColumn(name = "department_id")
     private Department department;
 }
+
+
+
+
+

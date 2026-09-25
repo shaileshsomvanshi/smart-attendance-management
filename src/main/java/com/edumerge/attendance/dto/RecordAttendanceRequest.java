@@ -16,3 +16,10 @@ public class RecordAttendanceRequest {
     
     private List<StudentAttendanceDto> attendances;
 }
+
+
+
+
+
+
+

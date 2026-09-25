@@ -22,3 +22,6 @@ public interface AttendanceService {
     
     List<Map<String, Object>> getStudentsWithLowAttendance(Long classSectionId, double thresholdPercentage);
 }
+
+
+

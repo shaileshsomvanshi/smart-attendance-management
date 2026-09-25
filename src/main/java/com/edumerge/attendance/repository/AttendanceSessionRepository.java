@@ -12,3 +12,8 @@ public interface AttendanceSessionRepository extends JpaRepository<AttendanceSes
     List<AttendanceSession> findByClassSectionIdAndCourseId(Long classSectionId, Long courseId);
     List<AttendanceSession> findByFacultyIdAndSessionDate(Long facultyId, LocalDate date);
 }
+
+
+
+
+
